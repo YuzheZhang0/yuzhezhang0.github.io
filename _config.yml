@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Yuzhe's Study Log"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Yuzhe Zhang"
+description              : &description "Aspiring cyber security professional. Adversarial Simulation enthusiast"
 url                      : https://yuzhezhang0.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YuzheZhang0/yuzhezhang0.github.io"
@@ -23,7 +23,7 @@ repository               : "YuzheZhang0/yuzhezhang0.github.io"
 author:
   # Biographic information
   avatar           : "pfp-yuz.jpg"
-  name             : "Yuzhe Zhang"
+  name             : "Yuzhe Zhang | OSCP | CRTO"
   pronouns         : "they/he"  
   bio              : "Just trying to be a better cybersecurity professional day after day. Join me in my journey!"
   location         : "The Net"
@@ -48,7 +48,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "Yuzhe Zhang"
+  linkedin         : "yuzhezhang0"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
